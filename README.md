@@ -1,2 +1,3 @@
 # hello-world
-first repository guide 
+first repository guide . Tell me something about yourself. 
+I have nothing to say. 
